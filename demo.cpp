@@ -24,7 +24,7 @@ int main(void)
        //dumama
         printf ("\n Root privileges given to the user \n");
     }
-
+// dam hai cay
     return 0;
 }
 
